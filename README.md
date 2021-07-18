@@ -10,7 +10,7 @@
 
 ### Para usar a aplicação, você pode baixa-lo diretamente no seu aparelho Android! Basta clicar [aqui](https://drive.google.com/drive/u/1/folders/Jf9JNEQerwPq4A7jCHKmlGASXqrx8v8k).
 
-### Se preferir, execute no emulador de sua preferência. Primeiro você precisa:
+### Se seu aparelho não for Android ou se preferir, execute no emulador de sua preferência. Primeiro você precisa:
 
  1. Clonar o projeto
 > $ git clone https://github.com/talialino/dev-cinemapp.git
@@ -25,9 +25,9 @@
 
 ### Como funciona:
 
- Este aplicativo foi feito para plataforma Android. O nome do filme desejado deve ser digitado na barra de busca e o botão de 'Buscar' deve ser pressionado. Logo após, uma chamada a API será feita e todos os filmes, com sua foto, Título e data de exibição, serão listados. Quando o ícone de favoritar for precionado, seus filmes favoritados serão salvos na aba de 'Favoritos', a lista será atualizada conforme você favoritar ou desfavoritar um filme e sair e entrar nessa aba.
+O nome do filme desejado deve ser digitado na barra de busca e o botão de 'Buscar' deve ser pressionado. Logo após, uma chamada a API será feita e todos os filmes, com sua foto, Título e data de exibição, serão listados. Quando o ícone de favoritar for precionado, seus filmes favoritados serão salvos na aba de 'Favoritos', a lista será atualizada conforme você favoritar ou desfavoritar um filme e sair e entrar nessa aba.
  
- #### Tecnologias utilizadas
+#### Tecnologias utilizadas
  - React Native
  - Context API
  - Yarn
@@ -35,9 +35,4 @@
  - EsLint
  - Prettier
  - EditorConfig
-
- 
-
-
-
 
