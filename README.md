@@ -34,5 +34,5 @@ O nome do filme desejado deve ser digitado na barra de busca e o botão de 'Busc
  - Axios
  - EsLint
  - Prettier 
- - EditorConfig
+ - EditorConfig 
 
