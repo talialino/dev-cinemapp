@@ -33,6 +33,6 @@ O nome do filme desejado deve ser digitado na barra de busca e o botão de 'Busc
  - Yarn
  - Axios
  - EsLint
- - Prettier
+ - Prettier 
  - EditorConfig
 
