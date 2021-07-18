@@ -30,7 +30,7 @@ O nome do filme desejado deve ser digitado na barra de busca e o botão de 'Busc
 ### Processo de criação
 
 #### Tecnologias utilizadas
- - React Native 
+ - React Native  
  - Context API
  - Yarn
  - Axios
