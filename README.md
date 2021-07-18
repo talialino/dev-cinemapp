@@ -22,7 +22,7 @@
 > $ npx react-native run-android  
 > $ yarn start
 
-#### Certifique-se de ter seu ambiente preparado para rodar o projeto em um emulador. Você vai precisar ter a versão mais recente do Node.js (LTS) pra rodar npx e Yarn.
+#### Certifique-se de ter seu ambiente preparado para rodar o projeto em um emulador. Você vai precisar ter a versão mais recente do Yarn e do Node.js (LTS) pra rodar npx.
 
 ### Como funciona:
 
