@@ -32,9 +32,9 @@ O nome do filme desejado deve ser digitado na barra de busca e o botão de 'Busc
 
 Comecei a criação do aplicativo estudando a API e os valores que precisaria manipular. Usei o Postman pra fazer os teste da API e para visualizar as requisições. 
 
-Resolvi criar a aplicação com React Native no código nativo para Android, por eu já ter as ferramentas e material de trabalho necessários, e também é o que estou mais familiarizada a desenvolver. Comecei pela estilização do projeto, fiz um esqueleto inicialemente pra receber as chamadas a API e renderiza-las. Ao invés de usar Redux, optei por usar somente o Context API, por ser uma ferramenta React Native com boa eficiência para aplicações mais simples. 
+Resolvi criar a aplicação com React Native no código nativo para Android, por eu já ter as ferramentas e material de trabalho necessários, e também é o que estou mais familiarizada a desenvolver. Comecei pela estilização do projeto, fiz um esqueleto inicialemente pra receber as chamadas a API e renderiza-las. Ao invés de usar Redux, optei por usar somente o Context API, por ser uma ferramenta React Native com boa eficiência para aplicações mais simples. Finalizei com algumas alterações no layout.
 
-Concluo que, em todo processo de criação algo novo sempre aparecia pra que eu aprendesse a lidar, tanto no código quanto em outras ferramentas que utilizei. Tive alguns problemas de permissão com o Git durante e no final da criação do projeto, mas aprendi a contornar toda a situação e fiquei satisfeita com o resultado final, por ser o que eu queria. Tive desafios que foram superados, o que tornou esse processo muito produtivo e vantajoso.
+Concluo que, em todo processo de criação, algo novo sempre aparecia pra que eu aprendesse a lidar, tanto no código quanto em outras ferramentas que utilizei. Tive alguns problemas de permissão com o Git durante e no final da criação do projeto, mas aprendi a contornar toda a situação e fiquei satisfeita com o resultado final. Tive desafios que foram superados, o que tornou esse processo muito produtivo e vantajoso.
 
 #### Tecnologias utilizadas
  - React Native  
