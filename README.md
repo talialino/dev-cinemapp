@@ -27,6 +27,8 @@
 
 O nome do filme desejado deve ser digitado na barra de busca e o botão de 'Buscar' deve ser pressionado. Logo após, uma chamada a API será feita e todos os filmes, com sua foto, Título e data de exibição, serão listados. Quando o ícone de favoritar for precionado, seus filmes favoritados serão salvos na aba de 'Favoritos', a lista será atualizada conforme você favoritar ou desfavoritar um filme e sair e entrar nessa aba.
  
+### Processo de criação
+
 #### Tecnologias utilizadas
  - React Native
  - Context API
