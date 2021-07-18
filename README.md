@@ -8,9 +8,9 @@
 - [x] Permitir que removamos um filme de nossos favoritos 
 - [x] Listar nossos filmes favoritos
 
-### Para usar a aplicação, você pode baixa-lo diretamente no seu aparelho Android! Basta clicar [aqui](https://drive.google.com/file/d/1NmrFyEMBV6BCsgxPdrf8VBLuMV6b1dfO/view?usp=sharing).
+#### Para usar a aplicação, você pode baixa-la diretamente no seu aparelho Android! Basta clicar [aqui](https://drive.google.com/file/d/1NmrFyEMBV6BCsgxPdrf8VBLuMV6b1dfO/view?usp=sharing). Para instalar em seu dispositivo, basta habilitar fontes desconhecidas
 
-### Se seu aparelho não for Android ou se preferir, execute no emulador de sua preferência. Primeiro você precisa:
+#### Se seu aparelho não for Android ou se preferir, execute no emulador de sua preferência. Primeiro você precisa:
 
  1. Clonar o projeto
 > $ git clone https://github.com/talialino/dev-cinemapp.git
