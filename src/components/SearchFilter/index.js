@@ -10,7 +10,7 @@ export function SearchFilter({onChangeSearch, onPress}) {
     <View style={styles.Container}>
       <View style={styles.Search}>
         <Searchbar
-          placeholder="O que você busca..."
+          placeholder="Digite filme aqui..."
           style={{backgroundColor: '#F3F3F3'}}
           clearTextOnFocus
           placeholderTextColor="#000"

@@ -7,7 +7,6 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import {useIsFocused} from '@react-navigation/native';
 
 import styles from './styles';
-import {StarBlue} from '../../components';
 
 import cineContext from '../../services/Contexts/CineContext';
 
@@ -54,9 +53,11 @@ export default function Favorites() {
                 <Text style={styles.ListTitle}>{data.Title}</Text>
                 <Text style={styles.ListTitle}>Ano: {data.Year}</Text>
               </View>
-              <StarBlue
-                imdbID={data.imdbID}
-                statePressed={handleFavoritesImdbIDs}
+              <Icon
+                style={styles.IconStart}
+                name="star"
+                color={'#E5D549'}
+                size={28}
               />
             </View>
           ))

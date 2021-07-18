@@ -49,4 +49,10 @@ export default StyleSheet.create({
   ListTitle: {
     fontSize: 15,
   },
+  IconStart: {
+    marginTop: hp('2%'),
+    alignItems: 'flex-end',
+    width: wp('19%'),
+    padding: 16,
+  },
 });

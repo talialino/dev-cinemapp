@@ -14,7 +14,6 @@ export default function Routes() {
       <StatusBar barStyle="#FFF" backgroundColor="#1F2923" />
       <Tab.Navigator
         tabBarOptions={{
-          labelPosition: 'beside-icon',
           activeTintColor: '#11B621',
           activeBackgroundColor: '#1F2923',
           inactiveBackgroundColor: '#1F2923',

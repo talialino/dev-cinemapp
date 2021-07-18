@@ -6,7 +6,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 
 import styles from './styles';
 
-export function StarWhite({imdbID, statePressed}) {
+export function StarInative({imdbID, statePressed}) {
   const [isPressed, setIsPressed] = useState(false);
   // console.log(isPressed);
 
