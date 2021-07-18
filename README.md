@@ -1,34 +1,43 @@
 # dev-cinemapp
 
-### Olá amigx,
+### Nesse aplicativo você pode:
 
-### Seja bem vindx ao nosso desafio!
+- [x] Buscar por filmes que gostamos
+- [x] Listar os filmes encontrados
+- [x] Permitir que escolhamos nosso filmes favoritos
+- [x] Permitir que removamos um filme de nossos favoritos 
+- [x] Listar nossos filmes favoritos
 
-Nosso passatempo favorito nessa quarentena tem sido assistir filmes e seriados, por isso pensamos em desenvolver uma solução que nos ajude na hora de selecionar o que mais gostamos. Caso você aceite o nosso desafio, precisamos que você implemente um sistema (fique a vontade pra escolher entre web ou mobile) onde será possível buscar por filmes e series utilizando a API (http://www.omdbapi.com/). Com todos esses filmes a nossa disposição queremos basicamente separar nossos favoritos, para que possamos encontrá-los facilmente depois. Portanto a sua solução deve:
+### Para usar a aplicação, você pode baixa-lo diretamente no seu aparelho Android! Basta clicar [aqui](https://drive.google.com/drive/u/1/folders/Jf9JNEQerwPq4A7jCHKmlGASXqrx8v8k).
 
-- Permitir a busca por filmes que gostamos
-- Listar os filmes encontrados
-- Permitir que escolhamos nosso filmes favoritos
-- Permitir que removamos um filme de nossos favoritos (às vezes um filme enjoa)
-- Listar nossos filmes favoritos
+### Se preferir, execute no emulador de sua preferência. Primeiro você precisa:
 
-Para auxiliar você nesse processo fizemos um protótipo rápido utilizando o Figma. Se quiser conferir é só seguir o link:
+ 1. Clonar o projeto
+> $ git clone https://github.com/talialino/dev-cinemapp.git
 
-[https://www.figma.com/proto/UE8zfSxxf8K0TzpgslbYhz/CinemAPP?node-id=1%3A28&scaling=contain](https://www.figma.com/proto/UE8zfSxxf8K0TzpgslbYhz/CinemAPP?node-id=1%3A28&scaling=contain)
+ 2. Instalar dependências
+> $ yarn
 
-
-Para facilitar um pouco mais as coisas, já deixamos separada uma chave de acesso para a API (ou você pode criar a sua também):
-
-```
-Chave de API: 925eba28
-Exemplo requisição: GET http://www.omdbapi.com/?apikey=925eba28&s=batman
-```
-
-Você pode desenvolver uma solução web ou mobile (react-native, ios ou android), se escolher a primeira opção é importante que consigamos utilizá-la também em nossos celulares.
-
-## Entrega da sua solução
-
-Deixe bem claro suas premissas, suposições e como executamos seu código. Para entregar essa solução, de um “fork” neste repositório e nos mande o link do novo repositório quando finalizar a tarefa.
+ 3. Executar projeto
+> $ npx react-native run-android  
+> $ yarn start
 
 
-No mais aguardamos seu retorno. Boa sorte :)
+### Como funciona:
+
+ Este aplicativo foi feito para plataforma Android. O nome do filme desejado deve ser digitado na barra de busca e o botão de 'Buscar' deve ser pressionado. Logo após, uma chamada a API será feita e todos os filmes, com sua foto, Título e data de exibição, serão listados. Quando o ícone de favoritar for precionado, seus filmes favoritados serão salvos na aba de 'Favoritos', a lista será atualizada conforme você favoritar ou desfavoritar um filme e sair e entrar nessa aba.
+ 
+ #### Tecnologias utilizadas
+ - React Native
+ - Context API
+ - Yarn
+ - Axios
+ - EsLint
+ - Prettier
+ - EditorConfig
+
+ 
+
+
+
+

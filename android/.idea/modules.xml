@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cinemApp.iml" filepath="$PROJECT_DIR$/.idea/modules/cinemApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cinemApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cinemApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/798438120/cinemApp.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/798438120/cinemApp.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-437877009/cinemApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-437877009/cinemApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-252494387/cinemApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-252494387/cinemApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/758357912/cinemApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/758357912/cinemApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/871177648/cinemApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/871177648/cinemApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/563318599/cinemApp.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/563318599/cinemApp.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

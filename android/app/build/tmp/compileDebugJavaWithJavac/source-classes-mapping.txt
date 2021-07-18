@@ -1,0 +1,14 @@
+com/cinemapp/MainActivity.java
+ com.cinemapp.MainActivity
+com/cinemapp/MainApplication.java
+ com.cinemapp.MainApplication
+ com.cinemapp.MainApplication$1
+com/cinemapp/ReactNativeFlipper.java
+ com.cinemapp.ReactNativeFlipper
+ com.cinemapp.ReactNativeFlipper$1
+ com.cinemapp.ReactNativeFlipper$2
+ com.cinemapp.ReactNativeFlipper$2$1
+com/cinemapp/BuildConfig.java
+ com.cinemapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
